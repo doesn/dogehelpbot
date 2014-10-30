@@ -12,7 +12,7 @@ Buy it in a while (~24-72 hrs) with ~1% fee!
 
 **All Countries**
 
-Instant Purchase – almost unlimited amounts (~8-15% over current price)
+Instant Purchase â€“ almost unlimited amounts (~8-15% over current price)
 
 * [WeSellDoges](http://www.weselldoges.com/)
 * [Dogeforsale](http://www.dogeforsale.com/?utm_source=reddit-dogecoin&utm_medium=banner&utm_campaign=wikilink)
@@ -31,9 +31,8 @@ Instant Purchase (~8% over current price)
 Exchange Purchase (Delayed ~24-72hrs with ~1% fee)
 
 * [ANXPRO](https://anxpro.com/)
-* [Cryptsy](https://www.cryptsy.com/markets/view/182) - Has something of a bad reputation
+* [Cryptsy](https://www.cryptsy.com/markets/view/182)
 * [Kraken](https://www.kraken.com/) 
-* [Prelude](https://prelude.io/) - Run by Moolah, seen to be most trusty
 
 
 **CAD**
@@ -102,5 +101,3 @@ Person-to-Person Trades
 
 * [Dogemarket](/r/dogemarket)
 * [CryptoTrade](/r/CryptoTrade)
-
-**Note: Opinions on exchanges are just that - my opinions. They are not necessarily representitive of the whole dogecoin community's opinions.**
